@@ -208,7 +208,7 @@ Puedes ver la presentacion y explicacion del proyecto en el siguiente enlace:
 ---
 ## Visualizacion del Repositorio
 
-[![Repobeats analytics image](https://repobeats.axiom.co/api/embed/SimonLexRS/CNN_UCB_SCZ.svg "Repobeats analytics image")](https://repobeats.axiom.co)
+[![Repobeats analytics image](https://repobeats.axiom.co/api/embed/d97c2cf3237358a0713449906289b7e5440d30df.svg "Repobeats analytics image")](https://repobeats.axiom.co)
 
 ---
 
