@@ -1,6 +1,6 @@
 # Clasificador de Landmarks — Transfer Learning
 
-**Proyecto Final · Modulo 6 Deep Learning · UCB — Msc. Ciencia de Datos e IA Aplicada**
+**Proyecto 1 · Modulo 6 Deep Learning · UCB — Msc. Ciencia de Datos e IA Aplicada**
 
 Clasificacion de 50 landmarks mundiales usando Transfer Learning con PyTorch.
 Se comparan tres enfoques: CNN desde cero, ResNet50 y EfficientNet-B0.
