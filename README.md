@@ -203,7 +203,12 @@ Landmarks incluidos: `Haleakala National Park`, `Ljubljana Castle`, `Dead Sea`,
 
 Puedes ver la presentacion y explicacion del proyecto en el siguiente enlace:
 
-**[Ver presentacion en YouTube]([https://www.youtube.com/@elitechacademy/videos](https://www.youtube.com/watch?v=-YL226J_e9U))**
+**[Ver presentacion en YouTube](https://www.youtube.com/watch?v=-YL226J_e9U)**
+
+---
+## Visualizacion del Repositorio
+
+[![Repobeats analytics image](https://repobeats.axiom.co/api/embed/SimonLexRS/CNN_UCB_SCZ.svg "Repobeats analytics image")](https://repobeats.axiom.co)
 
 ---
 
