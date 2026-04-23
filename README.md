@@ -203,7 +203,7 @@ Landmarks incluidos: `Haleakala National Park`, `Ljubljana Castle`, `Dead Sea`,
 
 Puedes ver la presentacion y explicacion del proyecto en el siguiente enlace:
 
-**[Ver presentacion en YouTube](https://www.youtube.com/@elitechacademy/videos)**
+**[Ver presentacion en YouTube]([https://www.youtube.com/@elitechacademy/videos](https://www.youtube.com/watch?v=-YL226J_e9U))**
 
 ---
 
