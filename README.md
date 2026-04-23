@@ -199,4 +199,12 @@ Landmarks incluidos: `Haleakala National Park`, `Ljubljana Castle`, `Dead Sea`,
 
 ---
 
+## Presentacion en Video
+
+Puedes ver la presentacion y explicacion del proyecto en el siguiente enlace:
+
+**[Ver presentacion en YouTube](https://www.youtube.com/@elitechacademy/videos)**
+
+---
+
 *Simon Alex Rodriguez · UCB · 2025*
